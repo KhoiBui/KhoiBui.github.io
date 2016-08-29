@@ -22,3 +22,6 @@ I'm going to catch up on everything that I need to do next week. A while back I 
 with an Android mobile application without really knowing anything about Android development. The idea sounded very
 simple but is a different story in practice. I'll have to buckle down and cram my head into every Android book I can
 find.
+<h2>Tip of the week</h2>
+Consider giving zsh a shot. It has all of the functionalities of bash but with tons of extra plugins and pretty themes.
+Here is a repo to get you started: https://github.com/robbyrussell/oh-my-zsh
