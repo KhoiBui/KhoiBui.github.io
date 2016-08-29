@@ -8,9 +8,9 @@ I did not do much this past week on account of it being the first week of school
 lack of sleep by sleeping too much. My summer internship started at 8am every day. Since I'm not very good at going
 to bed at a reasonable time, waking up in the morning became increasingly difficult as the summer moved on. Past
 classes had been rather relaxed at the beginning, but this semester is just the opposite. We hit the ground running. 
-OOP has been very engaging and informative, but what I enjoy most about the class is that it tries to bridge, as
-much as possible, the gap between university and industry. I also got the chance to set up this blog as well as Docker,
-both of which took an embarassingly large chunk of time.
+OOP has been very engaging and informative. It is one of the very few classes that I wish would go on longer. What I
+enjoy most about the class is that it tries to bridge, as much as possible, the gap between university and industry. 
+I also got the chance to set up this blog as well as Docker, both of which took an embarassingly large chunk of time.
 <h2>What's in your way?</h2>
 I've always been quite good about managing my time, but I can't say the same for motivation. At the start of summer,
 I told myself that I would learn c++. So far, the only thing I know about the language is what we've covered in the
