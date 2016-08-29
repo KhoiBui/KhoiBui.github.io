@@ -4,7 +4,7 @@ title: Week 1
 ---
 
 <h2>What did you do this past week?</h2>
-I did not do much this past week on account of it being the first week of school and because I was recuperating for
+I did not do much this past week on account of it being the first week of school and because I was recuperating from
 lack of sleep by sleeping too much. My summer internship started at 8am every day. Since I'm not very good at going
 to bed at a reasonable time, waking up in the morning became increasingly difficult as the summer moved on. Past
 classes had been rather relaxed at the beginning, but this semester is just the opposite. We hit the ground running. 
