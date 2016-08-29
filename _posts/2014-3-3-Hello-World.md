@@ -24,4 +24,4 @@ simple but is a different story in practice. I'll have to buckle down and cram m
 find.
 <h2>Tip of the week</h2>
 Consider giving zsh a shot. It has all of the functionalities of bash but with tons of extra plugins and pretty themes.
-Here is a repo to get you started: https://github.com/robbyrussell/oh-my-zsh
+Here is a repo to get you started: [Oh-My-Zsh](https://github.com/robbyrussell/oh-my-zsh)
