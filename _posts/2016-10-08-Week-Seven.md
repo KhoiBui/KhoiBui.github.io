@@ -11,10 +11,10 @@ concerns with the palindrome questions.
 One of the tenets of C++ taught to us by Dr. Downing is that algorithms should demand the weakest iterator. I took
 this philosophy to heart when I approached the first question which asked for the solution using a random access
 iterator. Since RI possesses all of the operators available to a bidirectional iterator, I was able to find a
-solution that only needed a BI. It worked and it was simple. When I saw the second palindrome question, I suddenly
-became a lot more skeptical of my answer. My solution to both questions look almost identical. Although I'm confident
-that both solutions work, I'm not so sure that I would get full credit for only using a BI instead of RI even if we
-were taught to use the weakest iterator.
+solution that only needed a BI. It worked and it was simple. When I saw the second palindrome question, I became a 
+lot more skeptical of my answer. The solution I had worked out to both questions look almost identical. Although I'm 
+confident that they both work, I'm not so sure that I would get full credit for only using a BI instead of RI even if 
+we were taught to use the weakest iterator.
 <h2>What's in your way?</h2>
 I only have a small portion of the Algo homework to do and the entirety of Networks to work on. I'm also not too
 excited to start Project 3 for OOP, but maybe that will change.
