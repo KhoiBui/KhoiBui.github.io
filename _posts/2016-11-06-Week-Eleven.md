@@ -22,9 +22,11 @@ devoted to working on Project 5.
 
 <h2>What will you do next week?</h2>
 
-Work on Project 5 and get ahead in my classes, hopefully.
+Work on Project 5 and get ahead in my classes, hopefully. Although I did a lot better than I expected on the first exam
+for this class, I can't say the same for other classes. Bombing the first exam in any class is a huge demotivator for the
+rest of the semester. 
 
 <h2>Tip of the Week</h2>
 
-[LetterBoxd](www.letterboxd.com) is a great avenue for discussing/reviewing movies online. Although I don't personally write reviews for movies I've
-seen, I always enjoy reading what others have to say about them. 
+[LetterBoxd](www.letterboxd.com) is a great avenue for discussing/reviewing movies online. Although I don't personally write 
+reviews for movies I've seen, I always enjoy reading what others have to say about them. 
