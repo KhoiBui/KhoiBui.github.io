@@ -28,5 +28,5 @@ rest of the semester.
 
 <h2>Tip of the Week</h2>
 
-[LetterBoxd](www.letterboxd.com) is a great avenue for discussing/reviewing movies online. Although I don't personally write 
+[LetterBoxd](https://letterboxd.com/) is a great avenue for discussing/reviewing movies online. Although I don't personally write 
 reviews for movies I've seen, I always enjoy reading what others have to say about them. 
