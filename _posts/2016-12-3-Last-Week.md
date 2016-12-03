@@ -24,7 +24,7 @@ Dr. Downing has a talent for being able to unravel complicated subjects into som
 examples that he goes over in class that he has a very deep understanding of the nuances of C++ and the structure of the language
 itself. 
 
-That being said, the other aspects of the class isn't as enjoyable or as exciting as the lectures. Firstly, the pacing of the 5
+That being said, the other aspects of the class aren't as enjoyable or as exciting as the lectures. Firstly, the pacing of the 5
 projects could use a little reorganizing. Projects 1, 2, and 3 were meant to familiarize the students with some C++ semantics and 
 the various tools that we were required to use. Projects 4 and 5 taught actual object oriented design and best practices. Prior to
 that learning OOP was done by reading the textbook, but that felt more optional as the weeks passed by. The time that it took to 
